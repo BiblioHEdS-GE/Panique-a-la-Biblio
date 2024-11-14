@@ -20,3 +20,8 @@ Pour cela, vous disposez de deux solutions :
 1) Fichiers PDF éditables dans Adobe Illustrator (conservation des calques, etc.)
 2) Fichiers SVG éditables avec un logiciel de dessin vectoriel libre comme Inkscape (https://inkscape.org/fr/)
 
+Dans les différents dossiers présent à la racine, vous pourrez retrouver :
+- les règles du jeu, pour étudiant et enseignant (PDF)
+- Les cartes du jeu, contenant les questions et le niveau de stress (PDF)
+- Le plateau de jeu (PDF)
+- La boîtes de jeu
