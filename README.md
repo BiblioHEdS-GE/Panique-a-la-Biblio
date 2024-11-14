@@ -29,6 +29,16 @@ Dans les différents dossiers présent à la racine, vous pourrez retrouver :
 
 Vous pourrez également retrouver une image représentant le résultat final pour chaque partie du jeu.
 
-Pour compléter votre jeu, il vous faudra quatre trombones qui permettront de représenter le niveau de stress au fil de la partie.
+Pour compléter votre jeu, il vous faudra un dé (4x faces de chaque couleur et 2x faces noires) et quatre trombones qui permettront de représenter le niveau de stress au fil de la partie.
+
+Matériel complet du jeu :
+* 1 plateau de jeu
+* 88 cartes
+  - 22 jaunes (Outils de recherche)
+  - 22 oranges (Stratégies de recherche)
+  - 22 vertes (Accès et évaluation de l'information)
+  - 22 bleues (Citation et rérérences)
+* 4 baromètres du stress
+* 1 dé à 6 faces (4x chaque couleur, 2x noires)
 
 Amusez-vous bien !
