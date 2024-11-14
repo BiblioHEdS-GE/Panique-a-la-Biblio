@@ -31,7 +31,7 @@ Vous pourrez également retrouver une image représentant le résultat final pou
 
 Pour compléter votre jeu, il vous faudra un dé (4x faces de chaque couleur et 2x faces noires) et quatre trombones qui permettront de représenter le niveau de stress au fil de la partie.
 
-Matériel complet du jeu :
+Matériel du jeu :
 * 1 plateau de jeu
 * 88 cartes
   - 22 jaunes (Outils de recherche)
