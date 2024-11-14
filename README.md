@@ -27,8 +27,8 @@ Dans les différents dossiers présent à la racine, vous pourrez retrouver :
 - La boîtes de jeu
 - Les visuels du jeu
 
-Ainsi qu'une image représentant le résultat final de chaque partie du jeu.
+Vous pourrez également retrouver une image représentant le résultat final pour chaque partie du jeu.
 
 Pour compléter votre jeu, il vous faudra quatre trombones qui permettront de représenter le niveau de stress au fil de la partie.
 
-
+Amusez-vous bien !
