@@ -16,9 +16,10 @@ Ce jeu est diffusé sous licence CC BY (https://creativecommons.org/licenses/by/
 "Panique à la biblio", CC BY Bibliothèque de la Haute école de santé de Genève 2024
 
 Les modifications du jeu sont autorisées.
-Pour cela, vous disposez de deux solutions :
+Pour cela, vous disposez de trois solutions :
 1) Fichiers PDF éditables dans Adobe Illustrator (conservation des calques, etc.)
 2) Fichiers SVG éditables avec un logiciel de dessin vectoriel libre comme Inkscape (https://inkscape.org/fr/)
+3) Fichier XLSX éditables avec Microsoft Excel 
 
 Dans les différents dossiers présent à la racine, vous pourrez retrouver :
 - les règles du jeu, pour étudiant et enseignant (PDF, SVG)
@@ -27,9 +28,11 @@ Dans les différents dossiers présent à la racine, vous pourrez retrouver :
 - La boîtes de jeu (PDF, SVG)
 - Les visuels du jeu (PNG,SVG)
 
-**Pour compléter votre jeu, il vous faudra : 
-- 1 dé (4 faces de chaque couleur et 2 faces noires)
-- 4 trombones qui permettront de représenter le niveau de stress au fil de la partie.**
+**Pour compléter votre jeu, il vous faudra :**
+- **1 dé (4 faces de chaque couleur et 2 faces noires)**
+- **4 trombones qui permettront de représenter le niveau de stress au fil de la partie.**
+
+---
 
 Matériel du jeu :
 * 1 plateau de jeu
