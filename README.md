@@ -21,15 +21,15 @@ Pour cela, vous disposez de deux solutions :
 2) Fichiers SVG éditables avec un logiciel de dessin vectoriel libre comme Inkscape (https://inkscape.org/fr/)
 
 Dans les différents dossiers présent à la racine, vous pourrez retrouver :
-- les règles du jeu, pour étudiant et enseignant (PDF,SVG)
-- Les cartes du jeu, contenant les questions et le niveau de stress (PDF,SVG,XLS)
-- Le plateau de jeu, en pièces modulaires ou en entier (PDF)
-- La boîtes de jeu (PDF)
+- les règles du jeu, pour étudiant et enseignant (PDF, SVG)
+- Les cartes du jeu, contenant les questions et le niveau de stress (PDF, SVG, XLS)
+- Le plateau de jeu, en pièces modulaires ou en entier (PDF, SVG)
+- La boîtes de jeu (PDF, SVG)
 - Les visuels du jeu (PNG,SVG)
 
-Vous pourrez également retrouver une image représentant le résultat final pour chaque partie du jeu.
-
-Pour compléter votre jeu, il vous faudra un dé (4x faces de chaque couleur et 2x faces noires) et quatre trombones qui permettront de représenter le niveau de stress au fil de la partie.
+**Pour compléter votre jeu, il vous faudra : 
+- 1 dé (4 faces de chaque couleur et 2 faces noires)
+- 4 trombones qui permettront de représenter le niveau de stress au fil de la partie.**
 
 Matériel du jeu :
 * 1 plateau de jeu
