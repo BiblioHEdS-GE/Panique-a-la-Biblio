@@ -5,7 +5,7 @@
 Outils de recherche, évaluation et accès à l’information, stratégies de recherche, Citation & références, plagiat. 
 
 Le jeu Panique à la biblio est basé sur le [Jeu "Escape the lab"](https://github.com/dis-unige/escape-the-lab) développé par l’Université de Genève et diffusé sous licence CC BY 4.0.
-La bibliothèque HEdS a décidé de reprendre le concept et d’adapter le jeu sur la thématique des compétences informationnelles, en lien avec les thématiques de la Santé. 
+La bibliothèque de la Haute école de santé a décidé de reprendre le concept et d’adapter le jeu sur la thématique des compétences informationnelles, en lien avec les thématiques de la Santé. 
 Le jeu est disponible uniquement en français. 
 
 Ce jeu est diffusé sous licence CC-BY (https://creativecommons.org/licenses/by/4.0/). Pour créditer ce jeu, vous pouvez utiliser la formule suivante:
@@ -44,8 +44,6 @@ Matériel du jeu :
 Amusez-vous bien! 
 
 ___________________________________________
-
-ENGLISH
 
 # Game - Panique à la biblio!
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) 
