@@ -29,7 +29,7 @@ Dans les différents dossiers présent à la racine, vous pourrez retrouver :
 - Les visuels du jeu (PNG, SVG)
 
 **Pour compléter votre jeu, il vous faudra :**
-- **1 dé (4 faces de chaque couleur et 2 faces noires)**
+- **1 dé à 6 faces (4 faces de chaque couleur et 2 faces noires)**
 - **4 trombones qui permettront de représenter le niveau de stress au fil de la partie.**
 
 ---
