@@ -14,13 +14,13 @@ Ce jeu est diffusé sous licence CC-BY (https://creativecommons.org/licenses/by/
 Les modifications du jeu sont autorisées.
 
 Pour cela, vous disposez de trois solutions :
-1) Fichiers PDF éditables dans Adobe Illustrator (conservation des calques, etc.)
-2) Fichiers SVG éditables avec un logiciel de dessin vectoriel libre comme Inkscape (https://inkscape.org/fr/)
-3) Fichier XLSX éditables avec Microsoft Excel 
+1) Fichiers PDF éditables, par exemple dans un logiciel tel que Inkscape 
+2) Fichiers SVG éditables avec un logiciel de dessin vectoriel libre comme par exemple Inkscape (https://inkscape.org/fr/)
+3) Fichier ODS éditable avec des logiciels gérant les feuilles de calcul (OpenOffice Calc) 
 
-Dans les différents dossiers présent à la racine, vous pourrez retrouver :
+Dans les différents dossiers présents à la racine, vous pourrez retrouver :
 - Les règles du jeu, pour étudiant-e-s et enseignant-e-s (PDF, SVG)
-- Les cartes du jeu, contenant les cartes des questions et les cartes représentant le baromètre de stress (PDF, SVG, XLS)
+- Les cartes du jeu, contenant les cartes des questions et les cartes représentant le baromètre de stress (PDF, SVG, ODS)
 - Le visuel du plateau de jeu, en pièces modulaires ou en entier (PDF, SVG)
 - Le visuel pour la boîte de jeu (PDF, SVG)
 - Les autres visuels du jeu tels que le logo (PNG, SVG)
@@ -38,7 +38,7 @@ Matériel du jeu :
   - 22 oranges (Stratégies de recherche)
   - 22 vertes (Accès et évaluation de l'information)
   - 22 bleues (Citation et rérérences)
-* 4 baromètres du stress (+ trombone par baromètre)
+* 4 baromètres du stress (+ 1 trombone par baromètre)
 * 1 dé à 6 faces (4x chaque couleur, 2x noires)
 
 Amusez-vous bien! 
@@ -51,7 +51,7 @@ ___________________________________________
 ‘Panique à la biblio!’ is an educational board game that introduces the following information skills: 
 Research tools, evaluating and accessing information, research strategies, citing and referencing, plagiarism. 
 
-The ‘Panique à la biblio!’ game is based on the ‘Escape the lab’ game (https://github.com/dis-unige/escape-the-lab) developed by the University of Geneva and distributed under a CC BY 4.0 licence.
+The ‘Panique à la biblio!’ game is based on the ‘Escape the lab’ game (https://github.com/dis-unige/escape-the-lab) developed by the University of Geneva and distributed under a CC-BY 4.0 licence.
 The Geneva School of Health Library has decided to take up the concept and adapt the game to the theme of information skills, in connection with health issues. 
 The game is only available in French. 
 
@@ -61,21 +61,21 @@ This game is distributed under a CC-BY licence (https://creativecommons.org/lice
 Modifications to the game are permitted.
 
 There are three ways of doing this:
-1) PDF files that can be edited in Adobe Illustrator (conservation of layers, etc.)
+1) PDF files that can be edited in software like Inkscape
 2) SVG files that can be edited with free vector graphics software such as Inkscape (https://inkscape.org/fr/)
-3) XLSX files that can be edited with Microsoft Excel 
+3) ODS files that can be edited with software that manages the calc
 
 
 In the various folders at the root, you can find :
 - The rules of the game, for students and teachers (PDF, SVG)
-- The game cards, containing the question cards and the stress barometer cards (PDF, SVG, XLS)
+- The game cards, containing the question cards and the stress barometer cards (PDF, SVG, ODS)
 - The visual for the game board, in modular pieces or as a whole (PDF, SVG)
 - The visual for the game box (PDF, SVG)
 - Other visuals for the game, such as the logo (PNG, SVG)
 
-To complete your game, you'll need:** ** The logo (PNG, SVG)
-- 1 6-sided die (4 sides of each colour and 2 black sides)
-- 4 paper clips to represent your stress level as the game progresses***.
+**To complete your game, you'll need:** 
+-**1 6-sided die (4 sides of each colour and 2 black sides)**
+- **4 paper clips to represent your stress level as the game progresses**.
 
 ---
 
