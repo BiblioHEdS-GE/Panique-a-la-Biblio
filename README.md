@@ -74,7 +74,7 @@ In the various folders at the root, you can find :
 - Other visuals for the game, such as the logo (PNG, SVG)
 
 **To complete your game, you'll need:** 
--**1 6-sided die (4 sides of each colour and 2 black sides)**
+- **1 6-sided die (4 sides of each colour and 2 black sides)**
 - **4 paper clips to represent your stress level as the game progresses**.
 
 ---
@@ -82,10 +82,10 @@ In the various folders at the root, you can find :
 Game equipment :
 * 1 game board
 * 88 cards
-- 22 yellow (Research tools)
-- 22 orange (Search strategies)
-- 22 green (Accessing and evaluating information)
-- 22 blue (Citations and references)
+  - 22 yellow (Research tools)
+  - 22 orange (Search strategies)
+  - 22 green (Accessing and evaluating information)
+  - 22 blue (Citations and references)
 * 4 stress barometers (+ paper clip per barometer)
 * 1 6-sided die (4x each colour, 2x black)
 
