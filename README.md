@@ -41,7 +41,7 @@ Matériel du jeu :
   - 22 oranges (Stratégies de recherche)
   - 22 vertes (Accès et évaluation de l'information)
   - 22 bleues (Citation et rérérences)
-* 4 baromètres du stress
+* 4 baromètres du stress (+ trombone par baromètre)
 * 1 dé à 6 faces (4x chaque couleur, 2x noires)
 
 Amusez-vous bien !
