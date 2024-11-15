@@ -22,7 +22,7 @@ Pour cela, vous disposez de trois solutions :
 3) Fichier XLSX éditables avec Microsoft Excel 
 
 Dans les différents dossiers présent à la racine, vous pourrez retrouver :
-- les règles du jeu, pour étudiants et enseignants (PDF, SVG)
+- les règles du jeu, pour étudiant-e-s et enseignant-e-s (PDF, SVG)
 - Les cartes du jeu, contenant les questions et le baromètre de stress (PDF, SVG, XLS)
 - Le plateau de jeu, en pièces modulaires ou en entier (PDF, SVG)
 - La boîtes de jeu (PDF, SVG)
