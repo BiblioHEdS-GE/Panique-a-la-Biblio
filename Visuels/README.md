@@ -1,3 +1,3 @@
-#Visuels de la boite de jeu et du plateau
+**Visuels de la boite de jeu et du plateau**
 
-#Game box and board visuals
+**Game box and board visuals**
